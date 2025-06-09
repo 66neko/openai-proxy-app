@@ -1,3 +1,11 @@
+## openai中转代理
+这是一个next.js搭建的简易openai中转代理
+可以使用vercel或cloudflare白嫖中转，使得在国内或者香港可以直接访问openai api
+## 使用方法
+请先fork该项目,然后使用vercel或者cloudflare或者其他云部署该项目
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
